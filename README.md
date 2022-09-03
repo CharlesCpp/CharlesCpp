@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on CS50 [Cloud hosting program in C](https://github.com/CharlesCpp/C-Cloud)
 
-- 💬 Ask me about **C, React, Python, Linux/Unix**
+- 💬 Ask me about **C, React, VueJS v3, Python, Linux/Unix**
 
 - 📫 How to reach me **constantinesco@icloud.com**
 
